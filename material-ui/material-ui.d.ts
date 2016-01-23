@@ -517,8 +517,10 @@ declare namespace __MaterialUI {
         disableSwipeToOpen?: boolean;
         docked?: boolean;
         header?: React.ReactElement<any>;
-        menuItems: Menu.MenuItemRequest[];
+        menuItems?: Menu.MenuItemRequest[];
         onChange?: Menu.ItemTapEventHandler;
+        onRequestChange : (open : any)=>void;
+        open : boolean;
         onNavOpen?: () => void;
         onNavClose?: () => void;
         openRight?: Boolean;
