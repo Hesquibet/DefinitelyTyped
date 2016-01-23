@@ -1,4 +1,4 @@
-// Type definitions for material-ui v0.13.4
+// Type definitions for material-ui v1.0
 // Project: https://github.com/callemall/material-ui
 // Definitions by: Nathan Brown <https://github.com/ngbrown>, Oliver Herrmann <https://github.com/herrmanno>
 // Definitions: https://github.com/borisyankov/DefinitelyTyped
